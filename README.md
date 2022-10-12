@@ -1,2 +1,2 @@
 # Scan-Up-App
-Scan Up App
+To those who are reading this, I made this app when I was in my first year of high school when I knew nothing about naming conventions. I know now to not name files, classes, variables, and other elements names such as the ones I used. And of course, the lack of documentation and comments is terrible and I have since improved on documentating all of my code. I hope you have a good laugh at my terrible file names and I have learned from my mistakes and my more recent projects are a little more up to standard. Thank you.
