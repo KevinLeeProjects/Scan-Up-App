@@ -1,0 +1,39 @@
+fileFormatVersion: 2
+guid: 99e2dbfa5b6144e7da9f49b7864ff054
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Aileron
+  fontNames:
+  - Aileron
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 936705501d67e46f7b34f634e41c7ca9, type: 3}
+  - {fileID: 12800000, guid: 245533702065a4000bd11d5828770fc6, type: 3}
+  - {fileID: 12800000, guid: 581e0f4120d7b478182b97ca7f823afa, type: 3}
+  - {fileID: 12800000, guid: 5556e971ebf2544508d7cd6229b3f131, type: 3}
+  - {fileID: 12800000, guid: 602d8db1350ae463186a60ffa8a098f1, type: 3}
+  - {fileID: 12800000, guid: 7983be54b87b4404599bcf4c702a5661, type: 3}
+  - {fileID: 12800000, guid: 6859b7d4961124528bf21f3871e04be5, type: 3}
+  - {fileID: 12800000, guid: 73bca415ac3344f68a7a4a5a616748a7, type: 3}
+  - {fileID: 12800000, guid: 19b01e86fb98345798a5d31d671f975d, type: 3}
+  - {fileID: 12800000, guid: 1ef6742733bb54b07b7f1bcabb3eed17, type: 3}
+  - {fileID: 12800000, guid: 20ac2e19555554c77bf8dc4ff6a7f90c, type: 3}
+  - {fileID: 12800000, guid: 65144ba9319fd44ddb65b0dd2cdc9097, type: 3}
+  - {fileID: 12800000, guid: 5554cbbabd95c4f6cac1590cb22a9324, type: 3}
+  - {fileID: 12800000, guid: 49be80da836024980aafc53efb0659f0, type: 3}
+  - {fileID: 12800000, guid: 585c23dd2e91640b9b758b3006abae89, type: 3}
+  - {fileID: 12800000, guid: 504540ee13fcd454e92e0dbb78cff3a1, type: 3}
+  - {fileID: 12800000, guid: 6632f33f56dd64825a13c2035e4770f6, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

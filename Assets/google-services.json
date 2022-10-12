@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "59272750302",
+    "firebase_url": "https://scanup-6afda.firebaseio.com",
+    "project_id": "scanup-6afda",
+    "storage_bucket": "scanup-6afda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59272750302:android:7d29f435465de3c1",
+        "android_client_info": {
+          "package_name": "com.Alterate.ScanUpUnity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59272750302-bgtna8joo1fbu3j9jmlhgialc761oe00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFfCrqobGuBNQ3VCjLC-xVhdZPWK2WvSw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

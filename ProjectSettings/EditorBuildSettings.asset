@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: fae1c3d0719eb4459aee5003160b7fe4
+  - enabled: 1
+    path: Assets/Scenes/LogIn.unity
+    guid: c148bfc8ff21b41d9b978ee78b922b4b
+  - enabled: 1
+    path: Assets/Scenes/SignUp.unity
+    guid: 2221f69690eab426f97b1fc8a568b091
+  - enabled: 1
+    path: Assets/Scenes/HomePage.unity
+    guid: 74afd6283c2714f7fb7180a62ed3b8f5
+  - enabled: 1
+    path: Assets/Scenes/QRPage.unity
+    guid: 09256dbe5dfe44b01b6094dbf0d357cb
+  - enabled: 1
+    path: Assets/Scenes/Scanner Page.unity
+    guid: 07183949559084140aba11c2aafd4d78
+  - enabled: 1
+    path: Assets/Scenes/PostScanPage.unity
+    guid: 8c4fa36b5f01c462baea0488644aa359
+  - enabled: 1
+    path: Assets/Scenes/CreateJoinEvent.unity
+    guid: b66376d543b2b435c8cd53db211b9304
+  - enabled: 1
+    path: Assets/Scenes/Spreadsheet.unity
+    guid: 6a0eb610794b442ee9f0ab03f98bc381
+  m_configObjects: {}
